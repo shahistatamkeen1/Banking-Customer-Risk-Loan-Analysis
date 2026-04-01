@@ -46,3 +46,7 @@ The goal is to help financial institutions understand borrower behavior and make
 * Supports data-driven banking strategies
 
 ---
+
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
