@@ -49,4 +49,4 @@ The goal is to help financial institutions understand borrower behavior and make
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Add your screenshot here)
