@@ -16,12 +16,6 @@ The goal is to help financial institutions understand borrower behavior and make
 
 ---
 
-## 📊 Dashboard Preview
-
-(Add your screenshot here)
-
----
-
 ## 🛠️ Tools & Technologies
 
 * Power BI
