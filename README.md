@@ -31,6 +31,40 @@ The goal is to help financial institutions understand borrower behavior and make
 * Dataset file
 * Dashboard images
 
+## 📂 Project Structure
+* Banking-Customer-Risk-Loan-Analysis/
+* │
+* ├── dashboard/
+* │   └── Banking_Customer_Risk_Loan_Analysis.pbix
+* │
+* ├── data/
+* │   ├── raw/
+* │   └── processed/
+* │
+* ├── notebooks/
+* │   └── loan_analysis.ipynb
+* │
+* ├── dashboard.png
+* ├── README.md
+* ├── requirements.txt
+
+---
+## ⚙️ Setup Instructions (Optional – for data processing)
+* 1. Create Virtual Environment
+* python -m venv .venv
+
+* Activate environment:
+
+* .venv\Scripts\activate   # Windows
+* 2. Install Dependencies
+* pip install -r requirements.txt
+* 3. Run Notebook
+* jupyter notebook
+
+* Open:
+
+* loan_analysis.ipynb
+
 ---
 
 ## 🎯 Business Value
