@@ -21,6 +21,22 @@ st.set_page_config(page_title="Loan Risk Dashboard", layout="wide")
 
 # ------------------ CUSTOM STYLING ------------------
 st.markdown("""
+            
+<style>
+[data-testid="stHeader"] {
+    display: none;
+}
+
+.block-container {
+    padding-top: 1rem !important;
+}
+
+.stApp {
+    background: linear-gradient(180deg, #020817 0%, #061326 100%);
+}
+</style>
+
+
 <style>
 /* Whole app */
 .stApp {
